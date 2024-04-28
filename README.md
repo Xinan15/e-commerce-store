@@ -2,7 +2,7 @@
 
 ### An e-commerce style web application built with .Net Core and Angular.
 
-#### Tech Used: .Net Core, Angular, Redis, Docker, Stripe, Bootstrap.
+#### Tech Used: .Net Core, Angular, Redis, Docker, Linux, Stripe, Bootstrap.
 
 ### Description
 - **Backend**: Implemented with .NET Core, featuring a multi-project architecture with multiple DbContexts to define context boundaries. Adopted Repository, Unit of Work, and Specification patterns to optimise data access and business logic.
